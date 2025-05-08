@@ -1,0 +1,2 @@
+explore strange new civilizations
+[随机游走结束: 没有出边]
